@@ -1,0 +1,21 @@
+{
+  "name": "antcamp_readmegen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+     "fs": "^0.0.1-security",
+     "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+     "jest": "^29.7.0",
+     "mock-fs": "^5.2.0"
+  }
+ }
+ 
