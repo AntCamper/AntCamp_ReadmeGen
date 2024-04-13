@@ -28,4 +28,4 @@ to test run npx jest or node test or both
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at antcamper2000@gmail.com. You can find more of my work at [AntCamp](https://github.com/AntCamp).
+If you have any questions about the repo, open an issue or contact me directly at antcamper2000@gmail.com. You can find more of my work at [AntCamp](https://github.com/AntCamper).
